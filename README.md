@@ -2,8 +2,8 @@
 <h3 align="center">A passionate FullStack developer from Nantes</h3>
 
 - 🔭 I’m currently working on **BabyPlace**,
-- an app to help parents booking nursery school care days for their child
-- with my schoolmates Alice, Clément, Lucas and Marcellin.
+an app to help parents booking nursery school care days for their child
+with my schoolmates Alice, Clément, Lucas and Marcellin.
 
 - 🌱 I’m currently learning **Express and SQL**
 
