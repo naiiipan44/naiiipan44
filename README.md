@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naïma</h1>
 <h3 align="center">A passionate FullStack developer from Nantes</h3>
 
-- 🔭 I’m currently working on **BabyPlace**
+- 🔭 I’m currently working on **BabyPlace** a social network dedicated to easy nursery school places booking.
 
 - 🌱 I’m currently learning **Express and SQL**
 
