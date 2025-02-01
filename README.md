@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Les Petits Nids** a social network dedicated to easy nursery school places booking.
 
-- 🌱 I’m currently learning **Express and SQL**
+- 🌱 I’m currently learning **Express, SQL and C#**
 
 - ⚡ Fun fact **I think Star Wars is the best saga ever**
 
