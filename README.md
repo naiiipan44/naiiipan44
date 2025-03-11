@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Les Petits Nids** a social network dedicated to easy nursery school places booking.
 
-- 🌱 I’m currently learning **Accessibility** & **RGPD**
+- 🌱 I’m currently learning **Accessibility** **C#** & **RGPD**
 
 - ⚡ Fun fact **I think Star Wars is the best saga ever**
 
