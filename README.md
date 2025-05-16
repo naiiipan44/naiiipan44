@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naïma</h1>
 <h3 align="center">A passionate FullStack developer from Nantes</h3>
 
-- 🔭 I’m currently working on **Les Petits Nids** a social network dedicated to easy nursery school places booking.
+- 🔭 I’m currently working on **several projects** with other web developers and on my own. Can't wait to share it with you.
 
 - 🌱 I’m currently learning **Java**
 
